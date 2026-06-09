@@ -15,4 +15,4 @@ A fully object‑oriented C++ application that simulates a large‑scale warehou
 - **Manual memory management** – raw pointers, `new`/`delete`, no STL containers
 - **File persistence** – saves/loads inventory to `inventory_data.txt`
 
-## 📁 Project Structure
+
